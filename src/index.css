@@ -1,0 +1,11 @@
+#root{
+    background-color: #0f0f0f;
+}
+.swiper-pagination-bullet {
+  background: rgb(186, 186, 186) !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: #9F7E54 !important;
+}
+@import "tailwindcss"
